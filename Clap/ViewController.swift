@@ -11,7 +11,7 @@ import UIKit
 import AVFoundation
 
 
-class ViewController: UIViewController, UIPickerViewDelegate,UIPickerViewDataSource {
+class ViewController: UIViewController{
 
     @IBOutlet var clapPickerView: UIPickerView!
     
